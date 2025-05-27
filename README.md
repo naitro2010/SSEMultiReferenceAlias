@@ -1,4 +1,4 @@
-# ***Template Project for SKSE - CommonLibSSE-NG***
+# ***SSEMultiReferenceAlias - CommonLibSSE-NG***
 
 ## ***Runtime requirements***
 
